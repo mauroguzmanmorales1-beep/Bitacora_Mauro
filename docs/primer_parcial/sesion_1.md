@@ -1,7 +1,14 @@
-# Sesion 1 
-# Mauro Guzmán Morales
-## MI DOCUMENTO DE MI PORTAFOLIO 
+# Sesion 1 - Mi Portafolio 
+## 2026/08/17
+## Mauro Guzmán Morales
 
+
+# Sesión 1 - Mi Portafolio 
+
+## Que deberia de lograr hoy 
+En esta sesion se deberian lograr crear su propio repositorio y cada sesion irlo actualizando 
+
+-----
 Actualmente estudio mecatronica en la universidad IBEROAMERICANA en Puebla 
 
 ![Diagrama del sistema](../recursos/imgs/Foto_pro.jpg)
