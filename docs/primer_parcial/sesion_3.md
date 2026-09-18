@@ -51,3 +51,6 @@ Durante el desarrollo de los circuitos hubieron ciertas complicaciones, pero fue
 
 ## Que aprendi 
 En esta sesión aprendí a configurar el entorno de desarrollo para el ESP32 y a controlar sus pines GPIO como entradas y salidas digitales. Comprendí el uso de la resistencia pull-up interna (INPUT_PULLUP) y el manejo de la lógica invertida en el código, donde presionar un botón envía una señal LOW. Puse esto en práctica exitosamente al programar el encendido y el parpadeo intermitente de LEDs (rojo y azul). Además, reforcé mi capacidad de resolución de problemas al identificar y corregir rápidamente detalles de sintaxis en el código y pequeños errores de conexión en la protoboard.
+
+## Siguiente paso 
+Explorar cómo controlar más de un LED de forma independiente vía Bluetooth desde el celular.
