@@ -1,5 +1,5 @@
 # Sesión 3 - Funcionamiento de ESP32
-## 2026/09/04
+## 2026/08/28
 ## Mauro Guzmán Morales 
 
 # Sesión 3 - GPIO
@@ -7,7 +7,7 @@
 Durante esta sesion se tendria que lograr comprender el funcionamiento de un microcontrolador ESP32.
 
 - Objetivo: 
-Configurar el entorno de desarrollo del ESP32, controlar entradas y salidas digitales (LED, botón con pull-up y antirrebote) y establecer comunicación Bluetooth con un protocolo de comandos, la base del cerebro y el control remoto de tu carro.
+Configurar el entorno de desarrollo del ESP32, controlar entradas y salidas digitales (LED, botón con pull-up y antirrebote) y establecer comunicación Bluetooth con un protocolo de comandos — la base del cerebro y el control remoto de tu carro.
 ---
 ## Que usamos 
 
