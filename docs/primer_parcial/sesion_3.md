@@ -49,5 +49,9 @@ void loop() {
 
 ---
 ## Que fallo y como se resolvio
-
 Durante el desarrollo de los circuitos hubieron ciertas complicaciones, pero fueron errores minimos, si fallo en el codigo o conecciones. 
+
+
+---
+## Que aprendi 
+
