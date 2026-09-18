@@ -1,5 +1,5 @@
-# Sesion 1 - Mi Portafolio 
-## 2026/08/17
+# Sesion 1 - Mi Primer Portafolio 
+## 2026/08/21
 ## Mauro Guzmán Morales
 
 
