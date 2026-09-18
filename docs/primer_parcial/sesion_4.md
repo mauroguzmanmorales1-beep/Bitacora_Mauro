@@ -20,9 +20,9 @@ Configurar y controlar motores de corriente continua mediante arduino y el contr
 - En este primer circuito se busco contorlar el movimiento de los motores, y identificar la dirección.
 
 ![Diagrama del sistema](../recursos/imgs/Motor_CC.jpeg)
-
-- Codigo de la primer imagen 
-
+---
+- Codigo primer figura.
+ 
 ````codigo 
 void setup()
 {
@@ -49,9 +49,12 @@ void loop()
 analogWrite (5, 255);
 secuencia();}
 ````
-- Como segunda imagen contamos con un circuito compuesto por dos Motores CC y un servomotor, en los que los motores cuentan con una funcion de ir hacia adelante, atras, y que girarian a la derecha asi como la izquierda al igual que el servomotor girando en diferentes angulos, 0, 90 y 180. 
-
+---
 ![Diagrama del sistema](../recursos/imgs/Motores_servo.jpeg)
+
+- Como segunda imagen contamos con un circuito compuesto por dos Motores CC y un servomotor, en los que los motores cuentan con una funcion de ir hacia adelante, atras, y que girarian a la derecha asi como la izquierda al igual que el servomotor girando en diferentes angulos, 0, 90 y 180. 
+---
+- Codigo del segundo circuito, con movimientos a la derecha, izquierda y giros.
 
 ```` codigo 
 // C++ code
@@ -125,12 +128,11 @@ void loop()
   MGM.write(180);
   izq();
   delay(1000);
-  
-  
-  
-  
+    
 }
 ````
-##
+---
+## Que fallo y como se resolvio 
+Durante la realizacion de los circuitos no hubo casi erores, mas que de codigo del Arduino, durante estos errores, se fue modificando el codigo para diferentes funcionamientos y nececidades de la practica, en estas fu bajo el apoyo y revision del profesor.
 
 
