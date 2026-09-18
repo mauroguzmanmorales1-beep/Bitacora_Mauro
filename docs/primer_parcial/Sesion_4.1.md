@@ -151,4 +151,5 @@ Durante la realización de los circuitos no hubo casi errores, más que algunos 
 Estas modificaciones se realizaron bajo el apoyo y revisión del profesor, hasta conseguir que los motores realizaran los movimientos correspondientes y que el servomotor pudiera girar en los diferentes ángulos establecidos.
 
 ---
-
+## Que aprendi 
+En esta sesión aprendí a controlar motores de corriente continua utilizando Arduino y el controlador L293D (puente H). Comprendí cómo invertir el sentido de giro de los motores manipulando los estados lógicos (HIGH y LOW) en los pines de salida, lo cual es fundamental para lograr que un vehículo avance, retroceda o gire hacia los lados. Además, aprendí a integrar un servomotor usando la librería Servo.h, logrando posicionarlo en ángulos exactos (0°, 90° y 180°). Finalmente, mejoré mis habilidades de programación al estructurar el código mediante funciones para cada movimiento y reafirmé la importancia de depurar la lógica paso a paso con el apoyo del profesor hasta obtener el resultado deseado en la simulación.
