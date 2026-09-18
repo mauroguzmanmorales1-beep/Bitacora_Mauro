@@ -1,5 +1,5 @@
 # Sesión 3 - Funcionamiento de ESP32
-## 2026/08/28
+## 2026/09/04
 ## Mauro Guzmán Morales 
 
 # Sesión 3 - GPIO
