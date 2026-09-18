@@ -62,7 +62,7 @@ void loop()
 }
 ```
 ---
-![Diagrama del sistema](../recursos/imgs/Motor_CC.jpeg)
+![Diagrama del sistema](../recursos/imgs/Motores_final.jpg)
 
 Como segunda imagen, contamos con un circuito compuesto por dos motores CC y un servomotor. Los motores cuentan con funciones para ir hacia adelante y hacia atrás, además de girar hacia la derecha y hacia la izquierda. De igual manera, el servomotor realiza giros en diferentes ángulos: 0°, 90° y 180°.
 
