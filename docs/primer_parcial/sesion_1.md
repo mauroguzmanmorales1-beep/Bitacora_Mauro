@@ -15,7 +15,7 @@ Actualmente estudio mecatronica en la universidad IBEROAMERICANA en Puebla.
 
 ### ¿PORQUE MECATRONICA?
 Decidi ingresar a esta carrera porque desde pequeño mi primo siempre me ha platicado sobre este ambiente, ya que el desempeña algo parecido, y siempre me a llamdo la intencion estar tambien en ese ambiente.
-
+---
 ### HOBBIES 
 Me gusta mucho el futbol, el gimnasio, escuchar musica y armar cosas.
 

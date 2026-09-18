@@ -41,6 +41,5 @@ Construir un oscilador que haga parpadear un LED, calcular su frecuencia y duty 
 
 ## Que fallo y como se soluciono 
 Durante la realización de esta practica no hubo errores, pero por lo mismo, se aprendio mas al poder ayudar o dar consejos a compañeros con dudas, o incluso cosas que se quedaron con dudas, preguntamos al profesos para no quedarnos sin una respuesta segura y confiable.
-
 ## Que aprendi 
 En esta sesión comprendí el funcionamiento del C.I. 555 en modo astable. Aprendí a calcular matemáticamente su frecuencia y ciclo de trabajo, para luego armar el circuito y hacer parpadear un LED. Con la ayuda del profesor, usamos el osciloscopio para medir y comprobar que las señales reales coincidieran con la teoría. Además, al no tener fallas en nuestro circuito, pude reafirmar mis conocimientos ayudando a mis compañeros a resolver sus dudas.
