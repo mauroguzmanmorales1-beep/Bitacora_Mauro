@@ -176,7 +176,7 @@
 
 # Código con resaltado
 
-``` codigo
+```` codigo
 ```python
 def medir(canal: int) -> dict:
     # Simulación de lectura
@@ -184,6 +184,7 @@ def medir(canal: int) -> dict:
 
 print(medir(1))
 ```
+````
 ```
 
 ```python
