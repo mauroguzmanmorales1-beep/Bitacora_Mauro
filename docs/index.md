@@ -16,4 +16,4 @@ Este es mi portafolio, me llamo Mauro Guzmán y pueden explorar mas en los sigue
 
 ---
 ### Proyectos 
-- [Proyecto carro a control remoto](segundo_pracial/PC.md)
+- [Proyecto carro a control remoto](segundo_parcial/PC.md)
