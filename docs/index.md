@@ -7,3 +7,5 @@ Este es mi portafolio, me llamo Mauro Guzmán y pueden explorar mas en los sigue
 - [Sesión 2](primer_parcial/s2.md)
 - [Sesión 3](primer_parcial/s3.md)
 - [Sesión 4](primer_parcial/s4.md)
+- [Sesión 5](segundo_parcial/s5.md)
+- [Proyecto carro a control remoto](segundo_pracial/PC.md)
